@@ -1,6 +1,6 @@
 # JoelOS
 
-### A minimal Rust operating system kernel
+### An operating system written in Rust
 
 ~Only builds on Mac but it's basically a one-liner to change to Linux or Windows~
 
