@@ -12,11 +12,11 @@ Build anywhere:
 
 ## Next:
 
-1. Create kernel  
+1. ~Create kernel~  
 2. ~configure for target system~ 
-3. Start using bootloader 
+3. ~Start using bootloader~ 
 4. Print to screen
-5. ...More OS feature
+5. Write small driver
 
 [Reference](https://os.phil-opp.com/freestanding-rust-binary/)
 
