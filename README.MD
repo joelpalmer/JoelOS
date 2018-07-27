@@ -8,9 +8,9 @@ Mac:
 
 `cargo rustc -- -Z pre-link-arg=-lSystem`
 
-Next:
+## Next:
 
-1. Create kernel & 
+1. Create kernel  
 2. configure for target system 
 3. Start using bootloader 
 4. Print to screen
