@@ -8,5 +8,8 @@
     "os": "none",
     "executables": true,
     "linker-flavor": "ld.lld",
-    "linker": "rust-lld" 
+    "linker": "rust-lld",
+    "panic-strategy": "abort",
+    "disable-redzone": true,
+    
 }
