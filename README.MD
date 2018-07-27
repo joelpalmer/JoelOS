@@ -22,7 +22,12 @@ You can boot on a VM or copy to USB drive (bare metal!) but a CD (different form
 2. ~configure for target system~ 
 3. ~Start using bootloader~ 
 4. ~Print to screen~
-5. More OS features...
+5. VGA Text Mode
+6. UTs
+7. Integration tests
+8. Exceptions
+9. Double faults
+10. ??
 
 [Reference](https://os.phil-opp.com/freestanding-rust-binary/)
 
