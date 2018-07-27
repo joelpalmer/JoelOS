@@ -10,8 +10,11 @@ Mac:
 
 Next:
 
-- Create kernel & configure for target system - Start using bootloader 
-- Print to screen
+1. Create kernel & 
+2. configure for target system 
+3. Start using bootloader 
+4. Print to screen
+5. ...More OS feature
 
 [Reference](https://os.phil-opp.com/freestanding-rust-binary/)
 
