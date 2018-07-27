@@ -8,7 +8,9 @@ Build anywhere:
 
 `cargo install cargo-xbuild`
 
-`cargo xbuild --target x86_64-blog_os.json`
+`cargo install bootimage --version "^0.5.0"`
+
+`bootimage build --target x86_64-joel_os.json`
 
 ## Next:
 
