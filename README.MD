@@ -14,7 +14,7 @@ Build anywhere:
 
 Disk image: _target/x86_64-joel_os/debug/bootimage-joel_os.bin_
 
-You can boot on a VM or copy to USB drive (bare metal!) but a CD (different format) won't work. I am using [QEMU on Mac](https://www.qemu.org/download/#macos) & it works like a charm. 
+You can boot on a VM or copy to USB drive (bare metal) but a CD (different format) won't work. I am using [QEMU on Mac](https://www.qemu.org/download/#macos) & it works like a charm. 
 
 ## Next:
 
